@@ -4,7 +4,7 @@
 先看gif
 =
 
-![image](http://i4.piimg.com/1949/736d8f911c1ab358.gif)
+<iframe height=1000 width=500 src="http://i4.piimg.com/1949/736d8f911c1ab358.gif">
 
 主要代码
 =
