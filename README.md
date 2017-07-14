@@ -4,7 +4,7 @@
 先看gif
 =
 
-![Markdown](http://i4.piimg.com/1949/736d8f911c1ab358.gif)
+![image](http://i4.piimg.com/1949/736d8f911c1ab358.gif)
 
 主要代码
 =
