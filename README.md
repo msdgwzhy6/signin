@@ -3,8 +3,7 @@
 
 先看gif
 =
-![Markdown](http://i4.piimg.com/1949/736d8f911c1ab358.gif)
-
+![Markdown](http://i2.kiimg.com/1949/8a91a6c34100575e.gif)
 主要代码
 =
  1-控件大小发生变化调用如下方法
