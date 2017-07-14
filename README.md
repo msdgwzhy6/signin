@@ -4,7 +4,8 @@
 先看gif
 =
 
-<iframe height=1000 width=500 src="http://i4.piimg.com/1949/736d8f911c1ab358.gif">
+<img src="http://i4.piimg.com/1949/736d8f911c1ab358.gif" alt="七天签到" style="max-width:100%;">
+
 
 主要代码
 =
